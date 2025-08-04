@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Mya.</h1>
 <h3 align="center">A passionate full stack developer based near Asheville, North Carolina.</h3>
 
-- 🔭 I’m currently working on [my updated portfolio in next.js](https://github.com/myavonbehren/portfolio)
+- 🔭 I’m currently working on [my updated portfolio in next.js](https://github.com/myavonbehren/unical)
 
 - 👨‍💻 All of my projects are available at [https://www.myavonbehren.com/](https://www.myavonbehren.com/)
 
